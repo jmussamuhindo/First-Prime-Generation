@@ -1,0 +1,14 @@
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\bin\Debug\netcoreapp3.1\PRIME1.exe
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\bin\Debug\netcoreapp3.1\PRIME1.deps.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\bin\Debug\netcoreapp3.1\PRIME1.runtimeconfig.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\bin\Debug\netcoreapp3.1\PRIME1.runtimeconfig.dev.json
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\bin\Debug\netcoreapp3.1\PRIME1.dll
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\bin\Debug\netcoreapp3.1\PRIME1.pdb
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\obj\Debug\netcoreapp3.1\PRIME1.csproj.AssemblyReference.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\obj\Debug\netcoreapp3.1\PRIME1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\obj\Debug\netcoreapp3.1\PRIME1.AssemblyInfoInputs.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\obj\Debug\netcoreapp3.1\PRIME1.AssemblyInfo.cs
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\obj\Debug\netcoreapp3.1\PRIME1.csproj.CoreCompileInputs.cache
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\obj\Debug\netcoreapp3.1\PRIME1.dll
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\obj\Debug\netcoreapp3.1\PRIME1.pdb
+C:\Users\muhis\Documents\ulnotes\AP\Assignments\project11\PRIME-1---Prime-Generator\PRIME1\obj\Debug\netcoreapp3.1\PRIME1.genruntimeconfig.cache
